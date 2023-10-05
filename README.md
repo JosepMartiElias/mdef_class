@@ -1,5 +1,7 @@
 # MDEF Website Template
 
+This is Josep's website
+
 This is a template for the student's personal repository during the _Master in Design for Emergent Futures (MDEF - Fab Lab Barcelona / IAAC)_. 
 
 
